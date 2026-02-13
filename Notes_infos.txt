@@ -1,0 +1,18 @@
+Les dépôts sur **GitHub** sont très importants lorsqu’on travaille avec **R**, surtout en data science et en développement de packages.
+
+D’abord, un dépôt GitHub permet de **sauvegarder et sécuriser son code**. Chaque modification est enregistrée grâce à Git. On peut revenir à une version précédente en cas d’erreur. Cela évite de perdre son travail.
+
+Ensuite, GitHub facilite la **collaboration**. Plusieurs personnes peuvent travailler sur le même projet R en même temps, proposer des améliorations et corriger des erreurs. Les outils comme les *branches* et les *pull requests* rendent le travail en équipe plus structuré.
+
+Les dépôts GitHub sont aussi essentiels pour la **reproductibilité scientifique**. En partageant son code R, ses scripts d’analyse et parfois ses données, on permet aux autres chercheurs ou analystes de reproduire les résultats.
+
+De plus, pour les développeurs de packages R, GitHub permet de :
+
+* publier son package,
+* recevoir des retours,
+* gérer les versions,
+* automatiser les tests.
+
+Enfin, avoir des projets R sur GitHub constitue un **portfolio professionnel**. Cela montre ses compétences en programmation, en analyse de données et en gestion de projet.
+
+En résumé, utiliser des dépôts GitHub avec R permet de travailler de manière plus organisée, plus sécurisée et plus professionnelle.
